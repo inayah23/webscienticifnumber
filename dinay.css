@@ -1,0 +1,21 @@
+body {
+    background-color: blueviolet;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+input {
+    margin-right: 10px;
+}
+
+#result {
+    font-weight: bold;
+}
